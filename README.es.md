@@ -6,6 +6,8 @@ Este es un tutorial interactivo que te enseñará cómo crear una API usando el 
 
 ## 🌱  Cómo iniciar este proyecto
 
+//////////  pipenv run python src/app.py //////////// 
+
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
 a) Abrir este enlace con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/python-flask-api-tutorial
